@@ -14,9 +14,9 @@ Este é o frontend do projeto de Gerenciamento de Finanças Pessoais, onde o usu
 
 ## 🛠️ Tecnologias
 
-- React
-- Vite
-- TypeScript
+- **React**
+- **Vite**
+- **TypeScript**
 
 ## 📦 Como Rodar o Projeto
 
