@@ -17,19 +17,23 @@ Este é o frontend do projeto de Gerenciamento de Finanças Pessoais, onde o usu
 - **React**
 - **Vite**
 - **TypeScript**
+- **TailwindCSS**
+- **Axios**
 
 ## 📦 Como Rodar o Projeto
 
 ### Pré-requisitos:
 
-- Node.js (versão recomendada 18+)
+- Node.js (versão recomendada 22)
 - npm ou yarn
 
 ### Instalação
 
 - Clone o repositório:
 
-`git clone https://github.com/fabiokusaba/myfinance/frontend` 
+`git clone https://github.com/fabiokusaba/myfinance.git` 
+
+- Navegue na pasta `myfinance/frontend`
 
 - Instale as dependências:
 
