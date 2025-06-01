@@ -1,10 +1,10 @@
 import './App.css'
+import PersonalFinanceDashboard from './components/dashboard-finance'
 
 function App() {
   return (
     <>
-     <h1>My Finance</h1>
-     <h2>Gerencie suas financas de forma prática e fácil!</h2>
+     <PersonalFinanceDashboard />
     </>
   )
 }
