@@ -19,6 +19,8 @@
 - **Vite**
 - **React 19**
 - **TypeScript**
+- **TailwindCSS**
+- **Axios**
 
 ## 🎯 Funcionalidades
 - ✅ Registrar receitas (ex: salário)
