@@ -33,3 +33,22 @@ Para o desenvolvimento desta aplicação, foram adotadas as seguintes tecnologia
 - **📘 Springdoc OpenAPI (Swagger)** - Geração automática de documentação interativa da API.
 
 - **🐳 Docker** - Containerização da aplicação e do banco de dados para facilitar testes, desenvolvimento e deploy.
+
+## 🚀 Como executar o projeto com Docker
+> Pré-requisitos: [Docker](https://www.docker.com/) e [Docker Compose](https://docs.docker.com/compose/)
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/fabiokusaba/myfinance.git
+cd myfinance/backend
+```
+
+2. Suba os containers com:
+
+```bash
+docker-compose up --build
+```
+
+3. Acesse a documentação da API em:
+- http://localhost:8080/swagger-ui/index.html#/
